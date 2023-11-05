@@ -1,0 +1,18 @@
+#gameBoard{
+    border: 10px solid black;
+}
+#scoreText{
+    font-size: 10vw;
+}
+#resetButton{
+    height: 5vw;
+    width: 10vw;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 2vw;
+    text-align: center;
+}
+#gameContainer{
+    text-align: center;
+}
